@@ -18,3 +18,8 @@ https://sword4869.github.io/learn_python
 https://sword4869.github.io/learn_python
 
 https://sword4869.github.io/learn_python
+
+
+---
+
+这个需要手动config.ts, 因为https直接根目录.
