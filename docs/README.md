@@ -1,5 +1,7 @@
 <https://sword4869.github.io/vuepress-starter>
 
+<https://sword4869.github.io/vuepress2-starter>
+
 <https://sword4869.github.io/learn_linux>
 
 <https://sword4869.github.io/learn_algorithm>
