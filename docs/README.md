@@ -14,7 +14,10 @@
 
 <https://sword4869.github.io/learn_python>
 
-
+<details>
+<summary>.</summary>
+<https://sword4869.github.io/mental_alchemy>
+</details>
 ---
 
 这个需要手动config.ts, 因为https直接根目录.
