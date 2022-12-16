@@ -4,6 +4,8 @@
 
 <https://sword4869.github.io/learn_linux>
 
+<https://sword4869.github.io/development_configurations>
+
 <https://sword4869.github.io/learn_algorithm>
 
 <https://sword4869.github.io/learn_docker>
